@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a9b661403c41c48b67b71ef91cc79b, type: 3}
+  m_Name: SV-98
+  m_EditorClassIdentifier: 
+  _name_ru: "\u0421\u0412-98"
+  _name_eng: SV-98
+  _name_chine: 
+  _name_japan: 
+  _name_ger: 
+  _name_france: 
+  _name_italy: 
+  _name_spain: 
+  _name_south_korea: 
+  _maxAmmo: 7
+  _reloadTime: 3
+  _fireRate: 2
+  _damage: 0
+  _startBulletSpeed: 8.2
+  _sprite: {fileID: 0}
+  _shotAudio: {fileID: 8300000, guid: bf0dfa6cf4156ce4c88d61df5813e15c, type: 3}
+  _reloadSound: {fileID: 8300000, guid: 473d524aa8fc54a47b9e70fc8cc67bd6, type: 3}
